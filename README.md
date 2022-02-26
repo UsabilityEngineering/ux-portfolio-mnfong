@@ -7,4 +7,4 @@
 
 ## UX Journal
 
-[Nordstrom IOS](j01/)
+[Nordstrom in IOS](j01/)
