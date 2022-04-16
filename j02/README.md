@@ -4,12 +4,12 @@ By: Madison Fong, 04/15/2022
 Retailing at $99.99, the Cosori Pro LE 5.0-Quart Air Fryer is a sleek take on the common airfryer. Featuring digital buttons, temperature gauge, and timer on the top as
 well as a singular button to open the oven drawer, this device appears simple to use to create an **efficient** cooking tool for the user. 
 
-![IMG_1652](https://user-images.githubusercontent.com/70239363/163656921-4afcde4d-cac7-4b44-a6bf-b074163df40f.JPG)
+![IMG_1651](https://user-images.githubusercontent.com/70239363/163656998-4c60322d-3de7-4548-8959-bcee2602253c.JPG)
 
 The power button located at the bottom left of the display indicates whether the air fryer is powered on or not through the use of color. It is blue while powered off and
 white when on. Upon turning on the device the rest of the display will light up as well.
 
-![IMG_1651](https://user-images.githubusercontent.com/70239363/163656998-4c60322d-3de7-4548-8959-bcee2602253c.JPG)
+![IMG_1652](https://user-images.githubusercontent.com/70239363/163656921-4afcde4d-cac7-4b44-a6bf-b074163df40f.JPG)
 
 There is a row of preset buttons for various foods at the top which makes it fast and easy for the user if they want to cook something from those options. Otherwise there
 are temperature and time controls surrounding the display. The row of buttons next to the power are settings that the user can select. Preheat will preheat the oven before
