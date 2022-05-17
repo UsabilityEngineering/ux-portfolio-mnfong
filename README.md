@@ -11,4 +11,4 @@
 
 [My Parents Cosori Air Fryer](j02/)
 
-[Subaru Impreza 2018 Dash](j03/)
+[Subaruwu Impreza 2018 Dash](j03/)
