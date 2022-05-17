@@ -17,8 +17,8 @@ food goes in, Keep Warm will keep whatever is currently in the basket warm, Shak
 is a play and pause button to start or pause cooking. 
 
 This display seems simple to learn. However, there are different designs of air fryers out there. Due to me owning a different brand I find it difficult to use the controls.
-I am accustomed to the device always being on and being able to just pop my food in and press start. For me, the power button is inconvienent and not **effective** as when
-I am trying to use the device, I expect it to be on. I also find the controls for time and temperature to be inconvienent as it is hard to continuously press a button to
+I am accustomed to the device always being on and being able to just pop my food in and press start. For me, the power button is inconvenient and not **effective** as when
+I am trying to use the device, I expect it to be on. I also find the controls for time and temperature to be inconvenient as it is hard to continuously press a button to
 increase or decrease the desired object. I find the knobs on my airfryer to be much more gentle on my hands and quicker when finding the desired numbers. However, these
 issues could just be due to the lack of practice using the device.
 
