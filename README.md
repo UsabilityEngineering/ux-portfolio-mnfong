@@ -4,6 +4,7 @@
 
 ## UX Team Project
 
+[Wild Life](https://usabilityengineering.github.io/Wild-Life/)
 
 ## UX Journal
 
